@@ -4,10 +4,9 @@
 Email Me 👉 ✉️ **rkusalkar78@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** **Artifical Intellegence**
-- 🌱 **I’m currently learning:** **Machine Learning and DSA**
-- 👯 **I’m looking to collaborate on:** **Nexus Ai Assistant**
+- 🌱 **I’m currently learning:** **Machine Learning and DSA in C++**
 - 📫 **How to reach me:** **rkusalkar78@gmail.com**
-- 😄 **Pronouns:** Rohan Sir
+- 😄 **Pronouns:** Rohan 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
