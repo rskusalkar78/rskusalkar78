@@ -1,37 +1,57 @@
-# 💫 Hi 👋, I'm Rohan Kusalkar
-**A passionate Electronics Engineer || DevOps Engineer || from India**
+<div align="center">
 
-Email Me 👉 ✉️ **rkusalkar78@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&customColorList=10,15,30&height=200&section=header&text=Rohan%20Kusalkar&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20UI/UX%20Designer%20%7C%20Web%20Developer&descSize=18&descAlignY=60"/>
 
-- 🔭 **I’m currently working on:** **Artifical Intellegence**
-- 🌱 **I’m currently learning:** **Machine Learning and DSA in C++**
-- 📫 **How to reach me:** **rkusalkar78@gmail.com**
-- 😄 **Pronouns:** Rohan 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Crafting+Seamless+Digital+Experiences+%E2%9C%A8;Specializing+in+Frontend+Architecture+%F0%9F%92%BB;UI/UX+Designer+%26+Web+Developer+%F0%9F%8E%A8;Let's+build+something+visually+stunning!)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rohhann.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-kusalkar-455ab1329) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@rohankusalkar7030) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkusalkar78@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) !
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rskusalkar78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rskusalkar78&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rskusalkar78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rskusalkar78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```javascript
+const Rohan = {
+    pronouns: "He / Him",
+    code: ["Javascript", "Typescript", "React", "Next.js"],
+    tools: ["Figma", "Tailwind CSS", "Framermotion", "Shadcn UI"],
+    location: "Pune, India 🇮🇳",
+    currentLearning: "Advanced Web Design & Deep-dive UX Psychology",
+    interests: ["Frontend Architecture", "Cinematography", "Web Animation"],
+    funFact: "I view web layouts like camera frames—it's all about the perfect composition and lighting! 📸"
+};
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌐 Connect with Me:
+<div align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/rohan-kusalkar-455ab1329" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" /></a>
+<a href="https://www.google.com/search?q=https://instagram.com/rohhann.6" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="instagram" /></a>
+<a href="mailto:rkusalkar78@gmail.com" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="email" /></a>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rskusalkar78&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🛠 Tech Stack & Creative Tools:
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=rskusalkar78&icon=0&color=13)](https://visitcount.itsvg.in)
+Design & Prototyping
+Frontend Development
+Deployment & Version Control
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📈 GitHub Insights
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3Drskusalkar78%26theme%3Dgithub_dark" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3Drskusalkar78%26theme%3Dgithub_dark" height="160em"/>
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Drskusalkar78%26theme%3Dgithub_dark" height="160em"/>
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Drskusalkar78%26theme%3Dgithub_dark" height="160em"/>
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Drskusalkar78%26theme%3Dgithub_dark%26utcOffset%3D5.5" height="160em"/>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Drskusalkar78%26theme%3Dtokyonight%26hide_border%3Dtrue" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" />
+</div>
