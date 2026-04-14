@@ -1,10 +1,12 @@
 # 💫 About Me:
-<div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Kusalkar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/><br><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Frontend%20Engineer%20•%20UI/UX%20Designer%20•%20Web%20Developer&fontSize=25&fontAlignY=10&descAlignY=40&animation=twinkling"/><br><br/><br></div><br><br>*
- 📍 Location: Pune, India
- 🎓 Currently Learning: Advanced UI/UX Design & System Architecture
- 🚀 Core Focus: Building high-performance Micro-SaaS products
- 🎥 Interests: Web Performance, Cinematography, and Visual Arts
- ⚡ Fun Fact: I treat my CSS like my camera settings—if the focus isn't sharp and the composition isn't pixel-perfect, I’m not hitting "Deploy" yet!
+<div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Kusalkar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/><br><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Frontend%20Engineer%20•%20UI/UX%20Designer%20•%20Web%20Developer&fontSize=25&fontAlignY=10&descAlignY=40&animation=twinkling"/><br><br/><br></div><br><br>
+
+* 📍 *Location:* Pune, India
+* 🎓 *Currently Learning:* Advanced UI/UX Design & System Architecture
+* 🚀 *Core Focus:* Building high-performance Micro-SaaS products
+* 🎥 *Interests:* Web Performance, Cinematography, and Visual Arts
+
+*⚡ Fun Fact:* I treat my CSS like my camera settings—if the focus isn't sharp and the composition isn't pixel-perfect, I’m not hitting "Deploy" yet!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079902294817) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rohhhan.6/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-kusalkar-455ab1329) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/rkusalkar78) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rohankusalkar7030) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkusalkar78@gmail.com) 
