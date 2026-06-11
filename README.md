@@ -9,7 +9,7 @@
         self.learning    = ["Machine learning", "Web designing", "Node js"]
         self.interests   = ["Full-Stack Web Development", "Data Analytics", "Real-World Problem Solving"]
         self.fun_fact    = "I enjoy turning random ideas into working projects.⚡"
-        print("Thanks for dropping by! Let's build something incredible together 🚀")class Rohan:
+        print("Thanks for dropping by! Let's build something incredible together 🚀")
 
 
 ## 🌐 Socials:
