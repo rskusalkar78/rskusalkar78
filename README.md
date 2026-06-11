@@ -1,7 +1,6 @@
 # 💫 About Me:
 <div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Kusalkar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/><br><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Frontend%20Engineer%20•%20UI/UX%20Designer%20•%20Web%20Developer&fontSize=25&fontAlignY=10&descAlignY=40&animation=twinkling"/><br><br/><br></div><br><br>
 
-class Rohan:
     def __init__(self):
         self.name        = "Rohan Kusalkar"
         self.role        = "UI/UX Infrastructure & Frontend Designer"
@@ -10,9 +9,9 @@ class Rohan:
         self.learning    = ["Machine learning", "Web designing", "Node js"]
         self.interests   = ["Full-Stack Web Development", "Data Analytics", "Real-World Problem Solving"]
         self.fun_fact    = "I enjoy turning random ideas into working projects.⚡"
+         def say_hi(self):
+        print("Thanks for dropping by! Let's build something incredible together 🚀")class Rohan:
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something incredible together 🚀")
 * 📍 *Location:* Pune, India
 * 🎓 *Currently Learning:* Advanced UI/UX Design & System Architecture
 * 🚀 *Core Focus:* Building high-performance Micro-SaaS products
