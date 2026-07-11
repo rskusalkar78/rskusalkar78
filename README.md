@@ -21,21 +21,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rskusalkar78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rskusalkar78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rskusalkar78&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rskusalkar78&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rskusalkar78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rskusalkar78&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=rskusalkar78&theme=tokyonight&no-frame=true&row=2&column=3"/>
 
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rskusalkar78&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Graph
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rskusalkar78&theme=tokyo-night)](https://github.com/rskusalkar78)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rskusalkar78&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
