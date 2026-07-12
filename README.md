@@ -72,16 +72,6 @@
 
 *"Code. Learn. Build. Repeat."* 🚀
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rskusalkar78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt=/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rskusalkar78&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
