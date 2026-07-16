@@ -65,10 +65,12 @@
 </div>
 
 ---
-
+# 📊 GitHub Statistics
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+[![GitHub Streak](https://streak-stats.demolab.com?user=rskusalkar78&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 *"Code. Learn. Build. Repeat."* 🚀
 
