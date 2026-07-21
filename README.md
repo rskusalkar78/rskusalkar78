@@ -66,11 +66,10 @@
 
 ---
 # 📊 GitHub Statistics
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rskusalkar78&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rskusalkar78&theme=tokyonight" />
+</p>
 
 *"Code. Learn. Build. Repeat."* 🚀
 
