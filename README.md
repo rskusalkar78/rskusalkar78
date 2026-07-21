@@ -65,15 +65,11 @@
 </div>
 
 ---
-# 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rskusalkar78&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rskusalkar78&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
-
-*"Code. Learn. Build. Repeat."* 🚀
-
----
 
 <h2 align="center">📈 Contribution Graph</h2>
 
